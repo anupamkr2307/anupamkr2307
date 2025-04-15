@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Anupam Kumar!
 
-Welcome to my GitHub profile! I'm a passionate [Your Role, e.g. Full Stack Developer, Data Scientist, DevOps Engineer] who loves building things that live on the internet. I enjoy turning ideas into reality using code, and I'm always exploring new technologies and tools.
+Welcome to my GitHub profile! I'm a passionate about AI/ML who loves building things that live on the internet. I enjoy turning ideas into reality using code, and I'm always exploring new technologies and tools.
 
 ---
 
@@ -25,9 +25,8 @@ Welcome to my GitHub profile! I'm a passionate [Your Role, e.g. Full Stack Devel
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourname/)
-- [Twitter](https://twitter.com/yourhandle)
-- [Portfolio](https://yourportfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/anupam-kumar-7305a8280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Portfolio](https://yourportfolio.com
 
 ---
 
