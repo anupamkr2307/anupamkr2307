@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Anupam Kumar!
 
 Welcome to my GitHub profile! I'm a passionate [Your Role, e.g. Full Stack Developer, Data Scientist, DevOps Engineer] who loves building things that live on the internet. I enjoy turning ideas into reality using code, and I'm always exploring new technologies and tools.
 
